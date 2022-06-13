@@ -1,0 +1,8 @@
+D:\MyProjects\C++\Курсачи 2.2\Паттерн\Pattern\Debug\Pattern.exe
+D:\MyProjects\C++\Паттерны2.2\Паттерн2\Pattern\Debug\Client.exe
+D:\MyProjects\C++\Паттерны2.2\Паттерн2\Client\Debug\Client.exe
+D:\MyProjects\C++\Курсачи 2.2\Паттерн1\Client\Debug\Client.exe
+D:\MyProjects\C++\Курсачи 2.2\Паттерн2\Client\Debug\Client.exe
+D:\MyProjects\C++\Курсачи 2.2\Смахтина\Client\Debug\Client.exe
+D:\MyProjects\C++\Курсачи 2.2\Смахтина(2)\Client\Debug\Client.exe
+C:\CourseWork\Client\Debug\Client.exe
